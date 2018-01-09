@@ -5,6 +5,10 @@ ansible-vsftpd
 
 Install FTP server - [vsftpd](https://security.appspot.com/vsftpd.html).
 
+**WARNING**: This is a fork of the upstream k0st1an/ansible-vsftpd role that modifies the approach implemented
+with user management while upstream revises this approach.
+
+It is unclear at this time if it will be a permanent repository.
 
 Synopsis
 --------
